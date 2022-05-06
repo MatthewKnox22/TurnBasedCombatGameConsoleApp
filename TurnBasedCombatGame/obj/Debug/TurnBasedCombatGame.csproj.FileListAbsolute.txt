@@ -1,0 +1,8 @@
+C:\Users\mknox\source\repos\TurnBasedCombatGame\TurnBasedCombatGame\bin\Debug\TurnBasedCombatGame.exe.config
+C:\Users\mknox\source\repos\TurnBasedCombatGame\TurnBasedCombatGame\bin\Debug\TurnBasedCombatGame.exe
+C:\Users\mknox\source\repos\TurnBasedCombatGame\TurnBasedCombatGame\bin\Debug\TurnBasedCombatGame.pdb
+C:\Users\mknox\source\repos\TurnBasedCombatGame\TurnBasedCombatGame\obj\Debug\TurnBasedCombatGame.csproj.AssemblyReference.cache
+C:\Users\mknox\source\repos\TurnBasedCombatGame\TurnBasedCombatGame\obj\Debug\TurnBasedCombatGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\mknox\source\repos\TurnBasedCombatGame\TurnBasedCombatGame\obj\Debug\TurnBasedCombatGame.csproj.CoreCompileInputs.cache
+C:\Users\mknox\source\repos\TurnBasedCombatGame\TurnBasedCombatGame\obj\Debug\TurnBasedCombatGame.exe
+C:\Users\mknox\source\repos\TurnBasedCombatGame\TurnBasedCombatGame\obj\Debug\TurnBasedCombatGame.pdb
